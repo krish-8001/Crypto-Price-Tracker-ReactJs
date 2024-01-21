@@ -5,8 +5,7 @@ app web besed on  React Js, Api , html/css
 
 ## Web Link
 
-https://crypto-price-app-react.herokuapp.com/
-
+https://crypto-price-tracker-jrgl.onrender.com
 # Hi, I'm Krish! 👋
 
   
